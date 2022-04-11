@@ -23,10 +23,6 @@ def planet():
         "message" : "success"
     }),200
 
-# 11 Comae Berenices b
 
 if __name__ == "__main__":
     app.run()
-
-
-# http://127.0.0.1:5000/planet?name=11%20Comae%20Berenices%20b
